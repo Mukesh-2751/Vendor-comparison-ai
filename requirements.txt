@@ -1,0 +1,8 @@
+streamlit
+PyMuPDF
+pandas
+plotly
+reportlab
+transformers
+torch
+sentencepiece
